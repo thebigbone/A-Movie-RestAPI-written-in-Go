@@ -1,6 +1,6 @@
 # Simple Movie API
 
-This is a simple movie API implemented in Go using the Gorilla Mux router. It allows you to perform basic CRUD operations (Create, Read, Update, Delete) on movies.
+This is a simple movie API implemented in Go using the Gorilla Mux router. It allows you to perform basic operations on movies.
 
 ## Endpoints (use postman to test it)
 
